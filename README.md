@@ -1,6 +1,6 @@
 👋 Hi, I’m @rdzerrr
 👀 I’m interested in cybersecurity and ethical hacking
-🌱 I’m currently learning C++ and JavaScript
+🌱 I learnt python with bash and I’m currently learning C++ and JavaScript
 📫 How to reach me: rodzer074@gmail.com
 ⚡ Fun fact: I once built a PC from scratch without any instructions!
 
